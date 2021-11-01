@@ -25,4 +25,7 @@ There are tools that will be used to achieve the goal of this study,  : pandas, 
 those are the tools I can think of. However, going through the model I will come up with mode approaches.
 
 
+# TO DO 
 
+- Explore the data and come up with EDA phases then use a model to fit the data.
+- NOTE: the used features may be increased or changed and the model as well.
