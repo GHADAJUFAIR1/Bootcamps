@@ -4,7 +4,7 @@
 This repo is one of the T5 Bootcamp requirements. 
 
 
-# What is Eatmarna 
+# Eatmarna Application
 
 Eatmarna is a governmental application developed by Ministry of Hajj and Umrah for the service of the guests of Rahman,It’s one of the most popular applications in Saudi Arabia, used to  enable those wishing to perform Umrah and visit to request the issuance of permits to enter the Two Holy Mosques to perform Umrah, visit and prayers according to the capacity approved by the concerned authorities to ensure the provision of a spiritual and safe atmosphere that achieves health precautionary measures and controls And the regulatory system.
 
